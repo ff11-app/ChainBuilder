@@ -1,0 +1,1690 @@
+[
+  {
+    "category": "片手剣",
+    "skills": [
+      {
+        "name": "ファストブレード",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "バーニングブレード",
+        "type": "",
+        "area": false,
+        "attrs": ["溶解"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "レッドロータス",
+        "type": "EX",
+        "area": false,
+        "attrs": ["溶解", "炸裂"],
+        "jobs": ["戦", "赤", "シナ", "暗", "青", "剣"]
+      },
+      {
+        "name": "フラットブレード",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "シャインブレード",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "セラフブレード",
+        "type": "EX",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["戦", "赤", "シナ", "暗", "青", "剣"]
+      },
+      {
+        "name": "サークルブレード",
+        "type": "",
+        "area": true,
+        "attrs": ["振動", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ボーパルブレード",
+        "type": "EX",
+        "area": false,
+        "attrs": ["切断", "衝撃"],
+        "jobs": ["戦", "赤", "シナ", "暗", "青", "剣"]
+      },
+      {
+        "name": "スウィフトブレード",
+        "type": "SP",
+        "area": false,
+        "attrs": ["重力"],
+        "jobs": ["ナ", "剣"],
+        "ambuscade_jobs": ["戦", "赤", "ナ", "吟", "竜", "コ", "踊", "戦", "シ", "暗", "侍", "青", "コ"]
+      },
+      {
+        "name": "サベッジブレード",
+        "type": "EV",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["戦", "赤", "ナ", "暗", "青", "コ", "剣"],
+        "ambuscade_jobs": ["戦", "赤", "シ", "ナ", "暗", "獣", "吟", "狩", "忍", "竜", "青", "コ", "剣"]
+      },
+      {
+        "name": "ナイツオブラウンド",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "核熱"],
+        "jobs": ["赤", "ナ"]
+      },
+      {
+        "name": "ロズレーファタール",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["分解", "湾曲"],
+        "jobs": ["赤"]
+      },
+      {
+        "name": "ロイエ",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["核熱", "振動"],
+        "jobs": ["ナ"]
+      },
+      {
+        "name": "エクスピアシオン",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["湾曲", "切断"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "シャンデュシニュ",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["光", "湾曲"],
+        "jobs": ["赤", "ナ", "青"]
+      },
+      {
+        "name": "レクイエスカット",
+        "type": "武神",
+        "area": false,
+        "attrs": ["重力", "切断"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "両手剣",
+    "skills": [
+      {
+        "name": "ハードスラッシュ",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "パワースラッシュ",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "フロストバイト",
+        "type": "",
+        "area": false,
+        "attrs": ["硬化"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "フリーズバイト",
+        "type": "EX",
+        "area": false,
+        "attrs": ["硬化", "炸裂"],
+        "jobs": ["戦", "ナ", "暗", "剣"]
+      },
+      {
+        "name": "ショックウェーブ",
+        "type": "",
+        "area": true,
+        "attrs": ["振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "クレセントムーン",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "シックルムーン",
+        "type": "SP",
+        "area": false,
+        "attrs": ["切断", "衝撃"],
+        "jobs": ["ナ", "暗", "剣"],
+        "ambuscade_jobs": ["ナ", "暗", "剣"]
+      },
+      {
+        "name": "スピンスラッシュ",
+        "type": "SP",
+        "area": false,
+        "attrs": ["分解"],
+        "jobs": ["ナ", "暗", "剣"],
+        "ambuscade_jobs": ["戦", "ナ", "暗", "剣"]
+      },
+      {
+        "name": "グラウンドストライク",
+        "type": "EV",
+        "area": false,
+        "attrs": ["分解", "湾曲"],
+        "jobs": ["戦", "ナ", "暗", "剣"],
+        "ambuscade_jobs": ["戦", "ナ", "暗", "剣"]
+      },
+      {
+        "name": "ヘラクレススラッシュ",
+        "type": "EX",
+        "area": false,
+        "attrs": ["硬化", "炸裂", "衝撃"],
+        "jobs": ["戦", "ナ", "暗", "剣"]
+      },
+      {
+        "name": "スカージ",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "核熱"],
+        "jobs": ["戦", "ナ", "暗"]
+      },
+      {
+        "name": "トアクリーバー",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["光", "湾曲"],
+        "jobs": ["ナ", "暗", "剣"]
+      },
+      {
+        "name": "レゾリューション",
+        "type": "武神",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "デミディエーション",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["光", "分解"],
+        "jobs": ["剣"]
+      }
+    ]
+  },
+  {
+    "category": "短剣",
+    "skills": [
+      {
+        "name": "ワスプスティング",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ガストスラッシュ",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "シャドーステッチ",
+        "type": "",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "バイパーバイト",
+        "type": "EX",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["赤", "シ", "吟", "狩", "忍", "踊"]
+      },
+      {
+        "name": "サイクロン",
+        "type": "EX",
+        "area": true,
+        "attrs": ["炸裂", "衝撃"],
+        "jobs": ["赤", "シ", "吟", "狩", "忍", "踊"]
+      },
+      {
+        "name": "ダンシングエッジ",
+        "type": "SP",
+        "area": false,
+        "attrs": ["切断", "炸裂"],
+        "jobs": ["シ", "踊"],
+        "ambuscade_jobs": ["シ", "踊"]
+      },
+      {
+        "name": "シャークバイト",
+        "type": "SP",
+        "area": false,
+        "attrs": ["分解"],
+        "jobs": ["シ", "踊"],
+        "ambuscade_jobs": ["黒", "召", "学", "風"]
+      },
+      {
+        "name": "エヴィサレーション",
+        "type": "EV",
+        "area": false,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["戦", "赤", "シ", "獣", "吟", "狩", "忍", "コ", "踊"],
+        "ambuscade_jobs": ["赤", "シ", "獣", "吟", "狩", "忍", "コ", "か", "踊"]
+      },
+      {
+        "name": "イオリアンエッジ",
+        "type": "EX",
+        "area": true,
+        "attrs": ["炸裂", "切断", "衝撃"],
+        "jobs": ["赤", "シ", "吟", "狩", "忍", "踊"]
+      },
+      {
+        "name": "マーシーストローク",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["闇", "重力"],
+        "jobs": ["赤", "シ", "吟"]
+      },
+      {
+        "name": "マンダリクスタップ",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["核熱", "収縮"],
+        "jobs": ["シ"]
+      },
+      {
+        "name": "モーダントライム",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["分解", "湾曲"],
+        "jobs": ["吟"]
+      },
+      {
+        "name": "ピリッククレオス",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["湾曲", "切断"],
+        "jobs": ["踊"]
+      },
+      {
+        "name": "ルドラストーム",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["闇", "湾曲"],
+        "jobs": ["シ", "吟", "踊"]
+      },
+      {
+        "name": "エクゼンテレター",
+        "type": "武神",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "片手斧",
+    "skills": [
+      {
+        "name": "レイジングアクス",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "スマッシュ",
+        "type": "",
+        "area": false,
+        "attrs": ["硬化", "振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ラファールアクス",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "アバランチアクス",
+        "type": "",
+        "area": false,
+        "attrs": ["切断", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "スピニングアクス",
+        "type": "EX",
+        "area": false,
+        "attrs": ["溶解", "切断", "衝撃"],
+        "jobs": ["戦", "暗", "獣", "剣"]
+      },
+      {
+        "name": "ランページ",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "カラミティ",
+        "type": "SP",
+        "area": false,
+        "attrs": ["切断", "衝撃"],
+        "jobs": ["戦", "獣"],
+        "ambuscade_jobs": ["戦", "暗", "獣", "剣"]
+      },
+      {
+        "name": "ミストラルアクス",
+        "type": "SP",
+        "area": false,
+        "attrs": ["核熱"],
+        "jobs": ["戦", "獣"],
+        "ambuscade_jobs": ["戦", "暗", "獣", "剣"]
+      },
+      {
+        "name": "デシメーション",
+        "type": "EV",
+        "area": false,
+        "attrs": ["核熱", "振動"],
+        "jobs": ["戦", "暗", "獣", "狩", "剣"],
+        "ambuscade_jobs": ["戦", "暗", "獣", "狩", "剣"]
+      },
+      {
+        "name": "ボーラアクス",
+        "type": "EX",
+        "area": false,
+        "attrs": ["炸裂", "切断"],
+        "jobs": ["戦", "暗", "獣", "剣"]
+      },
+      {
+        "name": "オンスロート",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["闇", "重力"],
+        "jobs": ["獣"]
+      },
+      {
+        "name": "プライマルレンド",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["重力", "振動"],
+        "jobs": ["獣"]
+      },
+      {
+        "name": "クラウドスプリッタ",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["闇", "分解"],
+        "jobs": ["戦", "獣"]
+      },
+      {
+        "name": "ルイネーター",
+        "type": "武神",
+        "area": false,
+        "attrs": ["湾曲", "炸裂"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "両手斧",
+    "skills": [
+      {
+        "name": "シールドブレイク",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "アイアンテンペスト",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "シュトルムヴィント",
+        "type": "EX",
+        "area": false,
+        "attrs": ["振動", "切断"],
+        "jobs": ["戦", "暗", "剣"]
+      },
+      {
+        "name": "アーマーブレイク",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "キーンエッジ",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ウェポンブレイク",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "レイジングラッシュ",
+        "type": "SP",
+        "area": false,
+        "attrs": ["硬化", "振動"],
+        "jobs": ["戦"],
+        "ambuscade_jobs": ["戦", "暗", "剣"]
+      },
+      {
+        "name": "フルブレイク",
+        "type": "SP",
+        "area": false,
+        "attrs": ["湾曲"],
+        "jobs": ["戦"],
+        "ambuscade_jobs": ["戦", "暗", "剣"]
+      },
+      {
+        "name": "スチールサイクロン",
+        "type": "EV",
+        "area": false,
+        "attrs": ["湾曲", "炸裂"],
+        "jobs": ["戦", "暗", "剣"],
+        "ambuscade_jobs": ["戦", "暗", "剣"]
+      },
+      {
+        "name": "フェルクリーヴ",
+        "type": "EX",
+        "area": true,
+        "attrs": ["炸裂", "切断"],
+        "jobs": ["戦", "暗", "剣"]
+      },
+      {
+        "name": "メタトロントーメント",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "核熱"],
+        "jobs": ["戦"]
+      },
+      {
+        "name": "キングズジャスティス",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["戦"]
+      },
+      {
+        "name": "ウッコフューリー",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["光", "分解"],
+        "jobs": ["戦"]
+      },
+      {
+        "name": "アップヒーバル",
+        "type": "武神",
+        "area": false,
+        "attrs": ["核熱", "収縮"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "両手鎌",
+    "skills": [
+      {
+        "name": "スライス",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ダークハーベスト",
+        "type": "",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "シャドーオブデス",
+        "type": "EX",
+        "area": false,
+        "attrs": ["硬化", "振動"],
+        "jobs": ["戦", "暗"]
+      },
+      {
+        "name": "ナイトメアサイス",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮", "切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "スピニングサイス",
+        "type": "",
+        "area": false,
+        "attrs": ["切断", "振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ボーパルサイス",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通", "切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ギロティン",
+        "type": "SP",
+        "area": false,
+        "attrs": ["硬化"],
+        "jobs": ["暗"],
+        "ambuscade_jobs": ["暗"]
+      },
+      {
+        "name": "クロスリーパー",
+        "type": "SP",
+        "area": false,
+        "attrs": ["湾曲"],
+        "jobs": ["暗"],
+        "ambuscade_jobs": ["戦", "黒", "暗", "獣"]
+      },
+      {
+        "name": "スパイラルヘル",
+        "type": "EV",
+        "area": false,
+        "attrs": ["湾曲", "切断"],
+        "jobs": ["戦", "暗", "獣"],
+        "ambuscade_jobs": ["戦", "黒", "暗", "獣"]
+      },
+      {
+        "name": "インファナルサイズ",
+        "type": "EX",
+        "area": false,
+        "attrs": ["収縮", "振動"],
+        "jobs": ["戦", "暗"]
+      },
+      {
+        "name": "カタストロフィ",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["闇", "重力"],
+        "jobs": ["暗"]
+      },
+      {
+        "name": "インサージェンシー",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["核熱", "収縮"],
+        "jobs": ["暗"]
+      },
+      {
+        "name": "クワイタス",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["闇", "湾曲"],
+        "jobs": ["暗"]
+      },
+      {
+        "name": "エントロピー",
+        "type": "武神",
+        "area": false,
+        "attrs": ["重力", "振動"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "両手槍",
+    "skills": [
+      {
+        "name": "ダブルスラスト",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "サンダースラスト",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ライデンスラスト",
+        "type": "EX",
+        "area": false,
+        "attrs": ["貫通", "衝撃"],
+        "jobs": ["戦", "ナ", "竜"]
+      },
+      {
+        "name": "足払い",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ボーパルスラスト",
+        "type": "",
+        "area": false,
+        "attrs": ["振動", "貫通"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "スキュアー",
+        "type": "SP",
+        "area": false,
+        "attrs": ["貫通", "衝撃"],
+        "jobs": ["竜"],
+        "ambuscade_jobs": ["竜"]
+      },
+      {
+        "name": "大車輪",
+        "type": "SP",
+        "area": false,
+        "attrs": ["核熱"],
+        "jobs": ["竜"],
+        "ambuscade_jobs": ["戦", "ナ", "侍", "竜"]
+      },
+      {
+        "name": "インパルスドライヴ",
+        "type": "EV",
+        "area": false,
+        "attrs": ["重力", "硬化"],
+        "jobs": ["戦", "侍", "竜"],
+        "ambuscade_jobs": ["戦", "ナ", "侍", "竜"]
+      },
+      {
+        "name": "ソニックスラスト",
+        "type": "EX",
+        "area": true,
+        "attrs": ["貫通", "切断"],
+        "jobs": ["戦", "ナ", "竜"]
+      },
+      {
+        "name": "ゲイルスコグル",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "湾曲"],
+        "jobs": ["竜"]
+      },
+      {
+        "name": "雲蒸竜変",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["核熱", "貫通"],
+        "jobs": ["竜"]
+      },
+      {
+        "name": "カムラン",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["光", "分解"],
+        "jobs": ["竜"]
+      },
+      {
+        "name": "スターダイバー",
+        "type": "武神",
+        "area": false,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "片手刀",
+    "skills": [
+      {
+        "name": "臨",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "烈",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "滴",
+        "type": "",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "凍",
+        "type": "",
+        "area": false,
+        "attrs": ["硬化", "炸裂"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "地",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "影",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "迅",
+        "type": "SP",
+        "area": false,
+        "attrs": ["炸裂", "衝撃"],
+        "jobs": ["忍"],
+        "ambuscade_jobs": ["忍"]
+      },
+      {
+        "name": "天",
+        "type": "SP",
+        "area": false,
+        "attrs": ["重力"],
+        "jobs": ["忍"],
+        "ambuscade_jobs": ["忍"]
+      },
+      {
+        "name": "空",
+        "type": "EV",
+        "area": false,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["忍"],
+        "ambuscade_jobs": ["忍"]
+      },
+      {
+        "name": "湧",
+        "type": "",
+        "area": false,
+        "attrs": ["振動", "切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "生者必滅",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["闇", "分解"],
+        "jobs": ["忍"]
+      },
+      {
+        "name": "カムハブリ",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["分解", "収縮"],
+        "jobs": ["忍"]
+      },
+      {
+        "name": "秘",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["闇", "重力"],
+        "jobs": ["忍"]
+      },
+      {
+        "name": "瞬",
+        "type": "武神",
+        "area": false,
+        "attrs": ["核熱", "衝撃"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "両手刀",
+    "skills": [
+      {
+        "name": "壱之太刀・燕飛",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通", "切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "弐之太刀・鋒縛",
+        "type": "",
+        "area": false,
+        "attrs": ["硬化"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "参之太刀・轟天",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "四之太刀・陽炎",
+        "type": "",
+        "area": false,
+        "attrs": ["溶解"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "五之太刀・陣風",
+        "type": "",
+        "area": false,
+        "attrs": ["切断", "炸裂"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "六之太刀・光輝",
+        "type": "",
+        "area": false,
+        "attrs": ["振動", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "七之太刀・雪風",
+        "type": "SP",
+        "area": false,
+        "attrs": ["硬化", "炸裂"],
+        "jobs": ["侍"],
+        "ambuscade_jobs": ["侍"]
+      },
+      {
+        "name": "八之太刀・月光",
+        "type": "SP",
+        "area": false,
+        "attrs": ["湾曲", "振動"],
+        "jobs": ["侍"],
+        "ambuscade_jobs": ["侍", "忍"]
+      },
+      {
+        "name": "九之太刀・花車",
+        "type": "EV",
+        "area": false,
+        "attrs": ["核熱", "収縮"],
+        "jobs": ["侍"],
+        "ambuscade_jobs": ["侍", "忍"]
+      },
+      {
+        "name": "十一之太刀・鳳蝶",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮", "切断"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "零之太刀・回天",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "分解"],
+        "jobs": ["侍"]
+      },
+      {
+        "name": "十之太刀・乱鴉",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["重力", "硬化"],
+        "jobs": ["侍"]
+      },
+      {
+        "name": "祖之太刀・不動",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["光", "湾曲"],
+        "jobs": ["侍"]
+      },
+      {
+        "name": "十二之太刀・照破",
+        "type": "武神",
+        "area": false,
+        "attrs": ["分解", "収縮"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "片手棍",
+    "skills": [
+      {
+        "name": "シャインストライク",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "セラフストライク",
+        "type": "EX",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["戦", "白", "ナ", "暗", "侍", "青", "風"]
+      },
+      {
+        "name": "ブレインシェイカー",
+        "type": "",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "スカルブレイカー",
+        "type": "",
+        "area": false,
+        "attrs": ["硬化", "振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "トゥルーストライク",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ムーンライト",
+        "type": "EX",
+        "area": false,
+        "attrs": [],
+        "jobs": ["戦", "白", "ナ", "暗", "侍", "青", "風"]
+      },
+      {
+        "name": "ジャッジメント",
+        "type": "EX",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["戦", "白", "ナ", "暗", "侍", "青", "風"]
+      },
+      {
+        "name": "ヘキサストライク",
+        "type": "SP",
+        "area": false,
+        "attrs": ["核熱"],
+        "jobs": ["白", "風"],
+        "ambuscade_jobs": ["戦", "白", "ナ", "風"]
+      },
+      {
+        "name": "ブラックヘイロー",
+        "type": "EV",
+        "area": false,
+        "attrs": ["分解", "収縮"],
+        "jobs": ["戦", "モ", "白", "黒", "ナ", "召", "青", "学", "風"],
+        "ambuscade_jobs": ["白", "黒", "赤", "召", "青", "学", "風"]
+      },
+      {
+        "name": "フラッシュノヴァ",
+        "type": "EX",
+        "area": false,
+        "attrs": ["硬化", "振動"],
+        "jobs": ["戦", "白", "ナ", "暗", "侍", "青", "風"]
+      },
+      {
+        "name": "ランドグリース",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "分解"],
+        "jobs": ["白"]
+      },
+      {
+        "name": "レルムレイザー",
+        "type": "武神",
+        "area": false,
+        "attrs": ["核熱", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "エクズデーション",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["闇", "分解"],
+        "jobs": ["白"]
+      }
+    ]
+  },
+  {
+    "category": "両手棍",
+    "skills": [
+      {
+        "name": "ヘヴィスイング",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "ロッククラッシャー",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "アースクラッシャー",
+        "type": "EX",
+        "area": true,
+        "attrs": ["衝撃", "炸裂"],
+        "jobs": ["戦", "モ", "白", "ナ", "風"]
+      },
+      {
+        "name": "スターバースト",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮", "振動"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "サンバースト",
+        "type": "EX",
+        "area": false,
+        "attrs": ["収縮", "振動"],
+        "jobs": ["戦", "モ", "白", "ナ", "風"]
+      },
+      {
+        "name": "シェルクラッシャー",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "フルスイング",
+        "type": "",
+        "area": false,
+        "attrs": ["溶解", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "レトリビューション",
+        "type": "EV",
+        "area": false,
+        "attrs": ["重力", "振動"],
+        "jobs": ["戦", "モ", "白", "黒", "ナ", "吟", "竜", "召", "学", "風"],
+        "ambuscade_jobs": ["戦", "モ", "白", "黒", "赤", "獣", "吟", "召", "学", "風"]
+      },
+      {
+        "name": "カタクリズム",
+        "type": "EX",
+        "area": true,
+        "attrs": ["収縮", "振動"],
+        "jobs": ["戦", "モ", "白", "ナ", "風"]
+      },
+      {
+        "name": "タルタロスゲート",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["闇", "湾曲"],
+        "jobs": ["黒", "召"]
+      },
+      {
+        "name": "ヴィゾフニル",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["分解", "湾曲"],
+        "jobs": ["黒"]
+      },
+      {
+        "name": "ガーランドオブブリス",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["核熱", "振動"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "オムニシエンス",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["学"]
+      },
+      {
+        "name": "シャッターソウル",
+        "type": "武神",
+        "area": false,
+        "attrs": ["重力", "硬化"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "弓術",
+    "skills": [
+      {
+        "name": "フレイミングアロー",
+        "type": "EX",
+        "area": false,
+        "attrs": ["溶解", "貫通"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "ピアシングアロー",
+        "type": "EX",
+        "area": false,
+        "attrs": ["振動", "貫通"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "ダリングアロー",
+        "type": "EX",
+        "area": false,
+        "attrs": ["溶解", "貫通"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "サイドワインダー",
+        "type": "EX",
+        "area": false,
+        "attrs": ["振動", "貫通", "炸裂"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "ブラストアロー",
+        "type": "SP",
+        "area": false,
+        "attrs": ["硬化", "貫通"],
+        "jobs": ["狩"],
+        "ambuscade_jobs": ["狩"]
+      },
+      {
+        "name": "アーチングアロー",
+        "type": "SP",
+        "area": false,
+        "attrs": ["核熱"],
+        "jobs": ["狩"],
+        "ambuscade_jobs": ["戦", "赤", "シ", "ナ", "暗", "獣", "狩", "侍", "忍"]
+      },
+      {
+        "name": "エンピリアルアロー",
+        "type": "EV",
+        "area": false,
+        "attrs": ["核熱", "貫通"],
+        "jobs": ["狩"],
+        "ambuscade_jobs": ["戦", "赤", "シ", "ナ", "暗", "獣", "狩", "侍", "忍"]
+      },
+      {
+        "name": "リフルジェントアロー",
+        "type": "EX",
+        "area": false,
+        "attrs": ["振動", "貫通"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "南無八幡",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "湾曲"],
+        "jobs": ["狩", "侍"]
+      },
+      {
+        "name": "ジシュヌの光輝",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["光", "核熱"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "エイペックスアロー",
+        "type": "武神",
+        "area": false,
+        "attrs": ["分解", "貫通"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "射撃",
+    "skills": [
+      {
+        "name": "ホットショット",
+        "type": "EX",
+        "area": false,
+        "attrs": ["溶解", "貫通"],
+        "jobs": ["狩", "コ"]
+      },
+      {
+        "name": "スプリットショット",
+        "type": "EX",
+        "area": false,
+        "attrs": ["振動", "貫通"],
+        "jobs": ["狩", "コ"]
+      },
+      {
+        "name": "スナイパーショット",
+        "type": "EX",
+        "area": false,
+        "attrs": ["溶解", "貫通"],
+        "jobs": ["狩", "コ"]
+      },
+      {
+        "name": "スラッグショット",
+        "type": "EX",
+        "area": false,
+        "attrs": ["振動", "貫通", "炸裂"],
+        "jobs": ["狩", "コ"]
+      },
+      {
+        "name": "ブラストショット",
+        "type": "SP",
+        "area": false,
+        "attrs": ["硬化", "貫通"],
+        "jobs": ["狩"],
+        "ambuscade_jobs": ["狩"]
+      },
+      {
+        "name": "ヘヴィショット",
+        "type": "SP",
+        "area": false,
+        "attrs": ["核熱"],
+        "jobs": ["狩"],
+        "ambuscade_jobs": ["戦", "シ", "暗", "狩"]
+      },
+      {
+        "name": "デトネーター",
+        "type": "EV",
+        "area": false,
+        "attrs": ["核熱", "貫通"],
+        "jobs": ["狩", "コ"],
+        "ambuscade_jobs": ["狩", "コ"]
+      },
+      {
+        "name": "ナビングショット",
+        "type": "EX",
+        "area": false,
+        "attrs": ["硬化", "炸裂", "衝撃"],
+        "jobs": ["狩", "コ"]
+      },
+      {
+        "name": "カラナック",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["闇", "分解"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "トゥルーライト",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["狩"]
+      },
+      {
+        "name": "レデンサリュート",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["コ"]
+      },
+      {
+        "name": "ワイルドファイア",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["闇", "重力"],
+        "jobs": ["狩", "コ"]
+      },
+      {
+        "name": "ラストスタンド",
+        "type": "武神",
+        "area": false,
+        "attrs": ["核熱", "振動"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+  {
+    "category": "格闘",
+    "skills": [
+      {
+        "name": "コンボ",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "タックル",
+        "type": "",
+        "area": false,
+        "attrs": ["振動", "衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "短勁",
+        "type": "EX",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["モ", "か"]
+      },
+      {
+        "name": "バックハンドブロー",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "乱撃",
+        "type": "EX",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["モ", "か"]
+      },
+      {
+        "name": "スピンアタック",
+        "type": "",
+        "area": true,
+        "attrs": ["衝撃"],
+        "jobs": ["ALL"]
+      },
+      {
+        "name": "空鳴拳",
+        "type": "SP",
+        "area": false,
+        "attrs": ["貫通", "衝撃"],
+        "jobs": ["モ", "か"],
+        "ambuscade_jobs": ["モ", "か"]
+      },
+      {
+        "name": "双竜脚",
+        "type": "SP",
+        "area": false,
+        "attrs": ["分解"],
+        "jobs": ["モ", "か"],
+        "ambuscade_jobs": ["戦", "モ", "赤", "シ", "暗", "獣", "忍", "か", "踊"]
+      },
+      {
+        "name": "夢想阿修羅拳",
+        "type": "EV",
+        "area": false,
+        "attrs": ["重力", "溶解"],
+        "jobs": ["モ", "か"],
+        "ambuscade_jobs": ["戦", "モ", "赤", "シ", "暗", "獣", "忍", "か", "踊"]
+      },
+      {
+        "name": "闘魂旋風脚",
+        "type": "EX",
+        "area": false,
+        "attrs": ["硬化", "衝撃", "炸裂"],
+        "jobs": ["モ", "か"]
+      },
+      {
+        "name": "ファイナルヘヴン",
+        "type": "レリック",
+        "area": false,
+        "attrs": ["光", "核熱"],
+        "jobs": ["モ"]
+      },
+      {
+        "name": "アスケーテンツォルン",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["核熱", "貫通"],
+        "jobs": ["モ"]
+      },
+      {
+        "name": "連環六合圏",
+        "type": "ミシック",
+        "area": false,
+        "attrs": ["重力", "溶解"],
+        "jobs": ["か"]
+      },
+      {
+        "name": "ビクトリースマイト",
+        "type": "エンピ",
+        "area": false,
+        "attrs": ["光", "分解"],
+        "jobs": ["モ"]
+      },
+      {
+        "name": "四神円舞",
+        "type": "武神",
+        "area": false,
+        "attrs": ["核熱", "振動"],
+        "jobs": ["ALL"]
+      }
+    ]
+  },
+{
+    "category": "召喚獣",
+    "skills": [
+      {
+        "name": "ポイズンネイル【カーバンクル】",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "パンチ【イフリート】",
+        "type": "",
+        "area": false,
+        "attrs": ["溶解"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "バーニングストライク【イフリート】",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ダブルパンチ【イフリート】",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "フレイムクラッシュ【イフリート】",
+        "type": "",
+        "area": false,
+        "attrs": ["核熱", "振動"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ロックスロー【タイタン】",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ロックバスター【タイタン】",
+        "type": "",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "メガリススロー【タイタン】",
+        "type": "",
+        "area": false,
+        "attrs": ["硬化"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "マウンテンバスター【タイタン】",
+        "type": "",
+        "area": false,
+        "attrs": ["重力", "硬化"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "クラッグスロー【タイタン】",
+        "type": "",
+        "area": false,
+        "attrs": ["重力", "切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "バラクーダダイブ【リヴァイアサン】",
+        "type": "",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "テールウィップ【リヴァイアサン】",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "スピニングダイブ【リヴァイアサン】",
+        "type": "",
+        "area": false,
+        "attrs": ["湾曲", "炸裂"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "クロー【ガルーダ】",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "プレデタークロー【ガルーダ】",
+        "type": "",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "アクスキック【シヴァ】",
+        "type": "",
+        "area": false,
+        "attrs": ["硬化"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ダブルスラップ【シヴァ】",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ラッシュ【シヴァ】",
+        "type": "",
+        "area": false,
+        "attrs": ["湾曲", "切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ショックストライク【ラムウ】",
+        "type": "",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "カオスストライク【ラムウ】",
+        "type": "",
+        "area": false,
+        "attrs": ["分解", "貫通"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ボルトストライク【ラムウ】",
+        "type": "",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ムーンリットチャージ【フェンリル】",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "クレセントファング【フェンリル】",
+        "type": "",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "エクリプスバイト【フェンリル】",
+        "type": "",
+        "area": false,
+        "attrs": ["重力", "切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "カミサドー【ディアボロス】",
+        "type": "",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ブラインドサイド【ディアボロス】",
+        "type": "",
+        "area": false,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "リーガルスクラッチ【ケット・シー】",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "リーガルガッシュ【ケット・シー】",
+        "type": "",
+        "area": false,
+        "attrs": ["湾曲", "炸裂"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ウェルト【セイレーン】",
+        "type": "",
+        "area": false,
+        "attrs": ["切断"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ラウンドハウス【セイレーン】",
+        "type": "",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["召"]
+      },
+      {
+        "name": "ヒステリックアサルト【セイレーン】",
+        "type": "",
+        "area": false,
+        "attrs": ["分解", "貫通"],
+        "jobs": ["召"]
+      }
+    ]
+  }
+]
