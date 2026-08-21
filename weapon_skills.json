@@ -1686,5 +1686,416 @@
         "jobs": ["召"]
       }
     ]
+  },
+{
+    "category": "青魔法",
+    "skills": [
+      {
+        "name": "フットキック",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "スプラウトスマック",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "種まき",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "パワーアタック",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "マヨイタケ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "バトルダンス",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "羽根吹雪",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ヘッドバット",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ヘルダイヴ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "メッタ打ち",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["溶解"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "クローサイクロン",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["切断"],
+        "jobs": ["青"]
+      },
+        {
+        "name": "S.ドライバー",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["切断", "貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "グランドスラム",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["硬化"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "怒りの一撃",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "まつぼっくり爆弾",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["溶解"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "アッパーカット",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["溶解"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ジェットストリーム",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "テラータッチ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["青"]
+      },
+    {
+        "name": "M.バイト",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["硬化"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "シックルスラッシュ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["収縮"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "次元殺",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["貫通", "衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "デスシザース",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["収縮", "振動"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "スパイラルスピン",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["貫通"],
+        "jobs": ["青"]
+      },
+    {
+        "name": "シードスプレー",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["硬化", "炸裂"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ボディプレス",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "スパイナルクリーヴ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["切断", "炸裂"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ハイドロショット",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["振動"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "フライパン",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "F.リップ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["硬化"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "テールスラップ",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["振動"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "H.バラージ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["炸裂"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "キャノンボール",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["核熱"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "アシュラクロー",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["溶解", "衝撃"],
+        "jobs": ["青"]
+      },
+    {
+        "name": "ディセバーメント",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["湾曲"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "サブゼロスマッシュ",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["分解"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ラムチャージ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["分解"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "バーティカルクリーヴ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["重力"],
+        "jobs": ["青"]
+      },
+    {
+        "name": "ゴブリンラッシュ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["核熱", "衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "バニティダイヴ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["切断", "貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "怒りの旋風",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["炸裂"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ベンシクタイフーン",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "四連突",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["湾曲", "切断"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "エンプティスラッシュ",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["切断", "収縮"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "デルタスラスト",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["溶解"],
+        "jobs": ["青"]
+      },
+    {
+        "name": "重い一撃",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["分解", "貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "サドンランジ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["炸裂", "衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "クアドラストライク",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["溶解", "切断", "衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "槍玉",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["重力", "貫通"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "偃月刃",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["湾曲", "切断"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "グルーティナスダート",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["分解", "貫通"],
+        "jobs": ["青"]
+      },
+    {
+        "name": "パラライズトライアド",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["重力", "切断"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "T.アッサルト",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["核熱", "衝撃"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "シンカードリル",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["重力", "振動"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "スイープガウジ",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["分解", "切断"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "サウリアンスライド",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["分解", "湾曲"],
+        "jobs": ["青"]
+      },
+    {
+        "name": "トゥールビヨン",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["光", "分解"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ビルジストーム",
+        "type": "青魔法",
+        "area": true,
+        "attrs": ["闇", "重力"],
+        "jobs": ["青"]
+      },
+      {
+        "name": "ブラッドレイク",
+        "type": "青魔法",
+        "area": false,
+        "attrs": ["闇", "湾曲"],
+        "jobs": ["青"]
+      }
+    ]
   }
 ]
